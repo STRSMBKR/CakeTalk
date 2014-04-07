@@ -1,0 +1,465 @@
+2013-12-13 11:17:13 Notice: Notice (8): Undefined index: User in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Users/talk.ctp, line 65]
+Trace:
+include - APP/View/Users/talk.ctp, line 65
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-13 11:23:33 Notice: Notice (8): Undefined variable: username in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Users/talk.ctp, line 63]
+Trace:
+include - APP/View/Users/talk.ctp, line 63
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-13 11:23:39 Notice: Notice (8): Undefined variable: username in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Users/talk.ctp, line 63]
+Trace:
+include - APP/View/Users/talk.ctp, line 63
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:48 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:48 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:48 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:48 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:48 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:48 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:48 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:48 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:48 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:48 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:51 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:51 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:51 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:51 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:51 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:51 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:51 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:51 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:51 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:09:51 Notice: Notice (8): Undefined variable: file_name in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Uploads/index.ctp, line 20]
+Trace:
+include - APP/View/Uploads/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:11:06 Notice: Notice (8): Undefined index: Upload in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 12]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 12
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:11:06 Notice: Notice (8): Undefined variable: file in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 15]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:11:13 Notice: Notice (8): Undefined index: Upload in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 12]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 12
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:11:13 Notice: Notice (8): Undefined variable: file in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 15]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:11:18 Notice: Notice (8): Undefined index: Upload in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 12]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 12
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:11:18 Notice: Notice (8): Undefined variable: file in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 15]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:11:19 Notice: Notice (8): Undefined index: Upload in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 12]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 12
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:11:19 Notice: Notice (8): Undefined variable: file in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 15]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:11:19 Notice: Notice (8): Undefined index: Upload in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 12]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 12
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:11:19 Notice: Notice (8): Undefined variable: file in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 15]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:11:20 Notice: Notice (8): Undefined index: Upload in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 12]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 12
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:11:20 Notice: Notice (8): Undefined variable: file in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 15]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:11:20 Notice: Notice (8): Undefined index: Upload in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 12]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 12
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:11:20 Notice: Notice (8): Undefined variable: file in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 15]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:12:10 Notice: Notice (8): Undefined index: Upload in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 12]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 12
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-12-18 10:12:10 Notice: Notice (8): Undefined variable: file in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/Controller/UploadsController.php, line 15]
+Trace:
+UploadsController::index() - APP/Controller/UploadsController.php, line 15
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2014-03-25 11:37:38 Notice: Notice (8): Undefined variable: html in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Layouts/default.ctp, line 30]
+Trace:
+include - APP/View/Layouts/default.ctp, line 30
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+ExceptionRenderer::_outputMessage() - CORE/Cake/Error/ExceptionRenderer.php, line 276
+ExceptionRenderer::error500() - CORE/Cake/Error/ExceptionRenderer.php, line 245
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 178
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 122
+[main] - [internal], line ??
+
+2014-03-25 11:37:38 Notice: Notice (8): Undefined variable: html in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Layouts/default.ctp, line 30]
+Trace:
+include - APP/View/Layouts/default.ctp, line 30
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+ExceptionRenderer::_outputMessage() - CORE/Cake/Error/ExceptionRenderer.php, line 276
+ExceptionRenderer::error500() - CORE/Cake/Error/ExceptionRenderer.php, line 245
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 178
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 122
+call_user_func - [internal], line ??
+ErrorHandler::handleFatalError() - CORE/Cake/Error/ErrorHandler.php, line 256
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 205
+call_user_func - [internal], line ??
+App::_checkFatalError() - CORE/Cake/Core/App.php, line 931
+App::shutdown() - CORE/Cake/Core/App.php, line 904
+[main] - [internal], line ??
+
+2014-03-25 11:37:42 Notice: Notice (8): Undefined variable: html in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Layouts/default.ctp, line 30]
+Trace:
+include - APP/View/Layouts/default.ctp, line 30
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+ExceptionRenderer::_outputMessage() - CORE/Cake/Error/ExceptionRenderer.php, line 276
+ExceptionRenderer::error500() - CORE/Cake/Error/ExceptionRenderer.php, line 245
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 178
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 122
+[main] - [internal], line ??
+
+2014-03-25 11:37:43 Notice: Notice (8): Undefined variable: html in [/Applications/XAMPP/xamppfiles/htdocs/cakephp/app/View/Layouts/default.ctp, line 30]
+Trace:
+include - APP/View/Layouts/default.ctp, line 30
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::renderLayout() - CORE/Cake/View/View.php, line 525
+View::render() - CORE/Cake/View/View.php, line 470
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+ExceptionRenderer::_outputMessage() - CORE/Cake/Error/ExceptionRenderer.php, line 276
+ExceptionRenderer::error500() - CORE/Cake/Error/ExceptionRenderer.php, line 245
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 178
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 122
+call_user_func - [internal], line ??
+ErrorHandler::handleFatalError() - CORE/Cake/Error/ErrorHandler.php, line 256
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 205
+call_user_func - [internal], line ??
+App::_checkFatalError() - CORE/Cake/Core/App.php, line 931
+App::shutdown() - CORE/Cake/Core/App.php, line 904
+[main] - [internal], line ??
+

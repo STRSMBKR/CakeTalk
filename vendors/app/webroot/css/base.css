@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+body {
+	//background-color:ivory;
+}
+
+form table.form {
+	background-color:white;
+	border: 1px solid gray;
+	border-collapse: collapse;
+	margin:5px;
+}
+form table.form th,
+form table.form td
+{
+	border: 1px solid gray;
+	padding:5px;
+}
+form table.form th {
+	background-color:lightgrey;
+}
+form div.submit,
+form table.form td.buttons
+{
+	text-align:center;
+}
+form table.form td.buttons input {
+	margin-left:1em;
+	margin-right:1em;
+}
+form div.submit input {
+	display:inline;
+}
+form div.datetime select {
+	margin-left:0.25em;
+	margin-right:0.25em;
+}
+a {
+	//color:blue;
+}
+div.error-message {
+	margin-top:2px;
+	color: red;
+	padding-left:1em;
+	font-size:90%;
+}

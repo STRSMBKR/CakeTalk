@@ -1,0 +1,1 @@
+<?php echo $this->Html->link('ログアウト',array('action' => 'logout')); ?>
