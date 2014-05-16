@@ -2,7 +2,8 @@
 App::uses('AppController', 'Controller');
 
 class UsersController extends AppController {
-
+	
+	
 	public $helpers = array('Html','Form');
 //コンポーネントの設定
 	public $components = array(
@@ -20,6 +21,7 @@ class UsersController extends AppController {
 			),
 			//セッションコンポーネントの使用
 			'Session',
+			
 			);
 
 	public function beforeFilter(){
@@ -78,7 +80,7 @@ class UsersController extends AppController {
 	}
 	
 	
-	//---------掲示板---------------
+//--------------掲示板---------------
 	    public function talk($id = null) {
 		$this->set('username',$this->Auth->user('username'));
 		$data = array('User',array('username'=> $id));
@@ -95,26 +97,38 @@ $this->User->save($data,false,$fields);
             }
         }
     }
+	
+/*	function ajax_add() {
+		$this->layout="ajax";
+		if($this->RequestHandler->isAjax()){
+			$title = $this->params['form']['title'];
+			$this->User->id=null;
+			$this->data['User']['title'] = $title;
+			$this->User->save($this->data);
+			$this->set('t',$title);
+			}
+			}*/
+			
 	//--------投稿削除-------------
-		public function delete($id){
+	public function delete($id){
 	if($this->request->is('get')){
 	throw new MethodNotAllwedException();
 }
 	//if($this->request->is('ajax')){
 	if($this->User->delete($id)){
-	//$this->autoRender = false;
-	//$this->autoLayout = false;
-	//$response = array('id' => $id);
-	//$this->header('Content-Type: application/json');
-	//echo json_encode($response);
-	//exit();
-		//$this->Session->setFlash('Deleted!');
-		//$this->redirect(array('action'=>'index'));
+	/*$this->autoRender = false;
+	$this->autoLayout = false;
+	$response = array('id' => $id);
+	$this->header('Content-Type: application/json');
+	echo json_encode($response);
+	exit();
+		$this->Session->setFlash('Deleted!');
+		$this->redirect(array('action'=>'talk'));*/
 		}
 		$this->redirect(array('action'=>'talk'));
     
-}
-	
+
+	}
 	
 	//--------ユーザ詳細------------
 	public function view($id){
@@ -173,10 +187,11 @@ if($this->User->save($this->request->data)){
         }
     }
 
-
+public function schedule(){
+	$this->redirect('http://localhost/cakephp/schedules');
 
 	
-	
+	}
 	//---------ユーザ追加--------------
 	public function add(){
 		//addはeditと同じ処理。ただしidは無指定

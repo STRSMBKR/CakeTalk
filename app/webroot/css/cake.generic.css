@@ -832,8 +832,7 @@ ul a:hover {
 	color:red;
 	}
 #mainmenu {
-	width:950px;
-	padding:
+	width:800px;
 	margin:auto;
 	//background-color:#003D4C;
 	}
@@ -855,6 +854,18 @@ ul a:hover {
 	margin:10px;
 	float:left;
 	list-style:none;
+	}
+.menu {
+	margin:10px;
+	}
+#head h2 {
+	font-size:30px;
+	width:700px;
+	}
+#head a {
+	float:right;
+	font-size:15px;
+
 	}
 
 

@@ -38,13 +38,15 @@ echo $this->Form->end('Save Post');
 <ul class ="clearfix">
 <li id = "npreet">
 <?php
-	echo h($user['User']['data']);?>
+	echo h($user['User']['data']);
+?>
 </li>
 <!--</ul>
 <ul id ="tpreet" class = "clearfix">-->
 <li>
 <?php
-		echo nl2br(h($user['User']['talk']));
+	echo nl2br(h($user['User']['talk']));
+	//echo nl2br(h($user['User']['talk']));
 	}
 ?>
 </li>
@@ -85,8 +87,8 @@ echo $this->Form->create('User');
 //echo h($data['Post']['name']);
 //echo $this->Form->input('username',array('style'=>'width:120px'));
 //$data = array('User',array('userid'=> $id));
+//echo $this->Form->input('data',array('type'=>'hidden','default'=>$username));
 echo $this->Form->input('data',array('type'=>'hidden','default'=>$username));
-
 echo $this->Form->input('talk', array('rows'=>3,'style'=>'width:500px'));
 
 echo $this->Form->end('Save Post');
@@ -98,9 +100,28 @@ $data = array('User',array('username'=> $username));
 
 ?>
 </div>
-
-
-
+<script>
+/*$(function(){
+	$("#UserAddForm").submit(function(){
+	$.post('/users/ajax_add',{
+	title:$("#UserTitle").val())
+},function(rs){
+	$("#users".prepend(rs);
+	$("#UserTitle").val('').focus();
+});
+	});
+});*/
+/*$(function() {
+	$('a.delete').click(function(e){
+	if(confirm('sure?')){
+	$.post('/cakephp/users/delete/'+$(this).data('post-id'),{},function(res){
+	$('#post_'+res.id).fadeOut();
+	},"json");
+		}
+	return false;
+	});
+});*/
+</script>
 <!--<h2>Add Post</h2>-->
 <?php //echo $this->Html->link('Add post', array('controller'=>'posts','action'=>'add'));
 ?>
